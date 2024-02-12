@@ -43,7 +43,7 @@
     "@types/node": "^14.17.34",
     "@types/uuid": "^8.3.3",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
-    "@typescript-eslint/parser": "^4.33.0",
+    "@typescript-eslint/parser": "^6.21.0",
     "concurrently": "^7.6.0",
     "cross-env": "^7.0.3",
     "dotenv-webpack": "^7.0.3",
